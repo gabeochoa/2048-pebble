@@ -1,0 +1,18 @@
+{
+    "uuid": "57d42036-1abb-4469-86e8-55e6aafd7801",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gabe1118@yahoo.com",
+    "shortName": "20",
+    "longName": "20",
+    "watchapp": {
+        "watchface": false
+    },
+    "versionCode": 1,
+    "appKeys": {},
+    "versionLabel": "1.0"
+}
